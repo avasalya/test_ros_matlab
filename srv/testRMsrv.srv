@@ -1,0 +1,5 @@
+# Request definition
+string data
+---
+# Response definition
+geometry_msgs/Point[] pos3D
